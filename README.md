@@ -14,12 +14,12 @@
 
 ---
 
-### 💻 My Featured Projects  
+### 💻 My Projects  
 
-📊 **[Traders Analysis Dashboard](https://github.com/yourusername/PowerBI-Traders-Project)**  
+📊 **[Traders Analysis Dashboard](https://github.com/JaishreeRM0201/Traders_PowerBI_Report)**  
 > A dynamic Power BI dashboard analyzing trader performance and key financial metrics.  
 
-🐍 **[Python Data Analytics Project](https://github.com/yourusername/Python-Data-Analytics-Project)**  
+🐍 **[Netflix Python Data Analytics Project](https://github.com/JaishreeRM0201/Netflix_Python_Report)**  
 > Data automation and insights generation using Python libraries like Pandas and Matplotlib.  
 
 🎓 **[PWC Virtual Internship Projects](https://github.com/yourusername/PWC-Virtual-Internship-PowerBI)**  
@@ -47,6 +47,7 @@
 
 -> Virtual Internship Certifications:
 - [Tata Group - Data Visualisation: Empowering Business with Effective Insights Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Tata/MyXvBcppsW2FkNYCX_Tata%20Group_yqh8cS8vfzpGcFbnt_1728898380063_completion_certificate.pdf)
+- [PwC Switzerland - Power BI Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/4sLyCPgmsy8DA6Dh3/a87GpgE6tiku7q3gu_4sLyCPgmsy8DA6Dh3_yqh8cS8vfzpGcFbnt_1737995808322_completion_certificate.pdf)
 
 ---
 
