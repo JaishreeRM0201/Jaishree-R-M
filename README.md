@@ -22,10 +22,10 @@
 🐍 **[Netflix Python Data Analytics Project](https://github.com/JaishreeRM0201/Netflix_Python_Report)**  
 > Data automation and insights generation using Python libraries like Pandas and Matplotlib.  
 
-🎓 **[PWC Virtual Internship Projects](https://github.com/yourusername/PWC-Virtual-Internship-PowerBI)**  
-> Hands-on experience creating business dashboards to solve real-world problems.  
+🎓 **[PWC Virtual Internship Dashboards](https://github.com/JaishreeRM0201/PWC_Virtual_Internship_Dashboards)**  
+> Hands-on experience creating business dashboards to solve real-world problems and provide meaningful insights.  
 
-🏢 **[Tata Virtual Internship Dashboard](https://github.com/yourusername/Tata-Virtual-Internship-PowerBI)**  
+🏢 **[Tata Virtual Internship Dashboard](https://github.com/JaishreeRM0201/Tata_Virtual_Internship_Dashboards)**  
 > Power BI dashboards designed for actionable business insights during Tata's virtual internship.
 
 ---
